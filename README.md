@@ -48,14 +48,15 @@
 
 ## 🚀 Projects
 
-| Project | What it does | Link |
+
+| Project | What I did | Tools |
 |---|---|---|
-| 🚢 **Titanic Data Cleaning** | Cleans and prepares the Titanic dataset using pandas. | [Notebook](https://github.com/vrshy/TITANIC) |
-| 🏏 **IPL Cricket Analytics** | Explores IPL data to find team and player performance trends. | Coming soon |
-| 🚦 **V2X Smart Traffic Simulation** | Python simulation of vehicle-to-everything communication (MQTT/CoAP) for traffic coordination. | Coming soon |
-| 🔋 **EV Dual Battery System** | ESP32 + IoT + ML project for smarter EV battery management. | Coming soon |
+| **[Employee Attrition Analysis](https://github.com/vrshy/attrition)** | Cleaned 49,653 HR records into 6,284 employees. Found that 85.5% of exits are voluntary, Customer Service has the real resignation problem (179 of 385), and 100 of 215 layoffs came from just three locations. Built a 3-page interactive dashboard. | Python, Pandas, Power BI, DAX |
+| **[BlinkIT Grocery Sales Dashboard](https://github.com/vrshy/blinkit-sales-dashboard)** | Power BI dashboard on grocery sales performance, with the data, screenshots and `.pbix` file included. | Power BI |
+| **[Titanic Data Cleaning](https://github.com/vrshy/TITANIC)** | Cleaned 1,309 passenger records: handled missing values, split names into title and surname, built a family-size feature. | Python, Pandas |
 
 ---
+
 
 ## 🎯 What I'm Working Towards
 
@@ -63,6 +64,15 @@
 - [ ] ML project with model explainability (SHAP / LIME)
 - [ ] NLP mini-project
 - [ ] Gen AI project using LLMs, LangChain & RAG
+
+---
+## 🎓 Background
+
+- **B.E. Electrical & Electronics Engineering**, Er. Perumal Manimekalai College of Engineering (CGPA 8.1, 2022–2026)
+- **Published research:** *V2X Communication for Smart Traffic Coordination*, IJEDR International Journal (May 2026)
+- **Internship:** Luminous Power Technologies, Hosur
+- **Engineering projects:** IoT and ESP32-based EV dual battery system, which taught me to work with real sensor data
+- **Certifications:** Generative AI Mastermind, AI Tools workshops (be10x), Industrial Automation: PLC, HMI & SCADA (NSDC Skill India)
 
 ---
 
